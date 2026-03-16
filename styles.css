@@ -6,7 +6,7 @@ h1 {
     text-align: center;
     background-color: gold;
     border:solid 5px black;
-    padding: 14px;
+    padding: 20px;
     margin: 20px;
 }
 
@@ -14,8 +14,8 @@ h2 {
     text-align: center;
     background-color: blueviolet;
     color: antiquewhite;
-    margin: 10px;
-    padding: 10px;
+    margin: 20px;
+    padding: 20px;
     font-family: cursive;
     font-size: 22px;
 }
@@ -26,7 +26,7 @@ h2 {
     font-size: 20px;
     display: block;
     margin: auto;
-    width: 300px;
+    width: 500px;
     height: 80px;
 }
 
@@ -35,7 +35,7 @@ h2 {
     color: black;
     font-size: large ;
     display: block;
-    padding: 10px;
+    padding: 20px;
     margin: auto;
     cursor: pointer;
 }
@@ -45,7 +45,7 @@ h2 {
     color: black;
     font-size: large ;
     display: block;
-    padding: 10px;
+    padding: 20px;
     margin: auto;
     cursor: pointer;
 }
