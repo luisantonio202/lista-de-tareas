@@ -17,6 +17,7 @@ function agregarTarea(){
     nuevaTarea.style.fontFamily = 'cursive';
     nuevaTarea.style.fontSize = '35px';
     nuevaTarea.style.backgroundColor = 'orange';
+    nuevaTarea.style.border = 'solid 5px black';
 
     lista.appendChild(nuevaTarea);
     tarea.value = "";
